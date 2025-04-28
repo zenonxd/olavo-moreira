@@ -3,7 +3,7 @@ import type { IconMap, SocialLink, Site } from '@/types'
 export const SITE: Site = {
   title: 'Olavo Moreira',
   description:
-    'astro-erudite is a opinionated, unstyled blogging template—built with Astro, Tailwind, and shadcn/ui.',
+    'Estudos e resumos feitos por mim, enquanto realizo algum curso por aí.',
   href: 'https://astro-erudite.vercel.app',
   author: 'jktrn',
   locale: 'en-US',
